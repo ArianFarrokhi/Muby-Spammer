@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/forks/MubyCO/Muby-Spammer?color=%02B039&label=Forks&style=flat-square">
 </p>
 
-# <p align="center">Muby-Spammer :)</p>
+# <p align="center">Muby-Spammer <h3>:)</h3></p>
 
 # Simple_Discord_Spammer
 
