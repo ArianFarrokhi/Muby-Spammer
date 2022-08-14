@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ArianFarrokhi&color=green)
+![](https://komarev.com/ghpvc/?username=MubyCO&color=green)
 
 # Muby-Spammer
 
