@@ -1,9 +1,3 @@
-<style>
-p{
-  color: aqua;
-}
-</style>
-
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/MubyCO/Muby-Spammer?style=flat-square">
   <img src="https://img.shields.io/github/last-commit/MubyCO/Muby-Spammer?style=flat-square">
