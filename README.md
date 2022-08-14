@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/MubyCO/Muby-Spammer?style=flat-square">
   <img src="https://img.shields.io/github/last-commit/MubyCO/Muby-Spammer?style=flat-square">
   <img src="https://img.shields.io/github/stars/MubyCO/Muby-Spammer?color=%02B039&label=Stars&style=flat-square">
   <img src="https://img.shields.io/github/forks/MubyCO/Muby-Spammer?color=%02B039&label=Forks&style=flat-square">
