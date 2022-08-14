@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ArianFarrokhi&color=green)
+
 # Muby-Spammer
 
 # Simple_Discord_Spammer
