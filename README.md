@@ -8,12 +8,11 @@
 
 # Simple_Discord_Spammer
 
-*Simple discord spammer made by MubyCO :)*
+*A simple Discord spammer made by Muby.*
 
-You can download it and use it.
-You can also see the code.
+You can download it and use it, and also see the code (open source).
 
-If you have any questions you can ask in issues and i'll answer as soon as i can :)
+If you have any questions you can ask in issues and i'll answer as soon as i can. :)
 
 _*Password: 12345*_
 
